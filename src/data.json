@@ -1,0 +1,60 @@
+[
+  {
+    "id": "1",
+    "children": ["2", "3"],
+    "type": "folder",
+    "name": "public"
+  },
+  {
+    "id": "2",
+    "type": "file",
+    "name": "index.html"
+  },
+  {
+    "id": "3",
+    "children": ["4", "5", "6"],
+    "type": "folder",
+    "name": "assets"
+  },
+  {
+    "id": "4",
+    "type": "file",
+    "name": "font.ttf"
+  },
+  {
+    "id": "5",
+    "type": "file",
+    "name": "logo.png"
+  },
+  {
+    "id": "6",
+    "type": "file",
+    "name": "favicon.ico"
+  },
+  {
+    "id": "7",
+    "children": ["8", "9", "10"],
+    "type": "folder",
+    "name": "src"
+  },
+  {
+    "id": "8",
+    "type": "file",
+    "name": "App.js"
+  },
+  {
+    "id": "9",
+    "type": "file",
+    "name": "index.js"
+  },
+  {
+    "id": "10",
+    "type": "file",
+    "name": "styles.css"
+  },
+  {
+    "id": "11",
+    "type": "file",
+    "name": "package.json"
+  }
+]
